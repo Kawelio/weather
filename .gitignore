@@ -11,8 +11,7 @@ src/public/app/**/*.js
 **/*.map
 src/public/
 /build
-/upload_mask
 
 #Config
 nodemon.json
-.env
+proxy.conf.json
